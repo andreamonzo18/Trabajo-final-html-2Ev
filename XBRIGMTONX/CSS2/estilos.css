@@ -1,0 +1,68 @@
+@import url(http://fonts.googleapis.com/css?family=Cabin+Sketch);
+
+
+body {
+    background: url("https://thumbs.dreamstime.com/b/primera-textura-de-nieve-fondo-blanco-invierno-motivos-fondos-pantalla-patr%C3%B3n-y-escritorio-165815802.jpg");
+    background-repeat: no repeat;
+    background-position: center;
+    background-color: rgb(83, 120, 145);
+    font-family: corbel;
+}
+
+h1 {
+    margin: 0;
+    color:  black;
+    font-family: "Cabin Sketch";
+    font-size: 4rem;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+section {
+    background-color: white;
+    border: rgb(51, 88, 119) 5px solid;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+h2 {
+    margin: 0;
+    color: black;
+    font-family: "Cabin Sketch";
+    font-size: 200%;
+    padding-left: 50%;
+    text-transform: uppercase;
+    padding-top: 2%;
+}
+
+ul {
+    font-size: small;
+    background-color: rgb(51, 88, 119);
+    border-radius: 5px;
+    color: rgb(230, 226, 193);
+    margin-left: 40%;
+    margin-top: -30%;
+    margin-right: 20%;
+    padding: 1%;
+    padding-left: 2%;
+}
+
+article{
+    background-color: rgb(230, 226, 193);
+    float:right;
+    margin-right: 4%;
+    margin-top: 20%;
+    padding: 1%;
+}
+
+p {
+    color: black;
+}
+
+footer {
+    font-size: 1.5rem;
+    text-align: center;
+    text-transform: uppercase;
+}

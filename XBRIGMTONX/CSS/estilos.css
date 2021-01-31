@@ -1,0 +1,123 @@
+
+body {
+    background: url("https://thumbs.dreamstime.com/b/primera-textura-de-nieve-fondo-blanco-invierno-motivos-fondos-pantalla-patr%C3%B3n-y-escritorio-165815802.jpg");
+    background-repeat: no repeat;
+    background-position: center;
+    background-color: rgb(83, 120, 145);
+    font-family: corbel;
+    
+}
+
+h1 {
+    font-family: 'Corbel';
+    font-size: 300%;
+    background-color: rgb(29, 111, 136);
+    padding-left: 85%;
+    margin-left: -5%;
+    margin-right: -5%;
+    margin-top: -1%;
+}
+
+section {
+    color: rgb(0, 0, 0);
+    float: right;
+    font-size: 90%;
+    margin-right: 30%;
+    margin-left: 20%;
+    margin-top: -2%;
+}
+p.xx {
+    font-family: 'Corbel';
+    font-size: 50%;
+    background-color: rgb(29, 111, 136);
+    padding-left: 42%;
+    margin-left: -5%;
+    margin-right: -5%;
+    margin-top: -1%;
+    padding-top: -20%;
+}
+
+.x1 {
+    background-color: rgb(135, 143, 146);
+    color: white;
+    font-size: 120%;
+    border-radius: 7%;
+    margin-left: 2%;
+    padding: 0.5%;
+    padding: 3px 10px;
+}
+
+.x1:hover {
+    color: black;
+    border-radius: 7%;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black; 
+}
+
+.x2 {
+    float: right;
+    margin-right: 2%;
+    
+}
+
+h2 {
+    font-size: 180%;
+    background-color:  rgb(83, 120, 145);
+    color: rgb(12, 11, 11);
+    border: PowderBlue 5px solid;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 1%;
+    margin-left: 5%;
+    margin-right: 83%;
+}
+
+p.x3 {
+    text-align: justify;
+    font-size: 150%;
+    margin:2%
+}
+
+aside {
+    float: right;
+    border-left: white 5px dashed;
+    margin-left: 3%;
+    padding-right: 1%;
+}
+
+footer{
+    background-color: rgb(6, 8, 10);
+    margin-top: 35%;
+    margin-left: -2%;
+    margin-right: -2%;
+}
+
+p.fin {
+    color: white;
+    margin-left: 5%;
+    padding-top: 1%;
+   
+}
+
+nav.mapa{
+    float: right;
+    margin-right: 2%;
+    margin-top: 1%;
+}
+
+nav.yb{
+    float: right;
+    margin-right: 4%;
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+
+nav.fbk {
+    float: right;
+    margin-right: 2%;
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+
+
+
